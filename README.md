@@ -449,3 +449,7 @@ function generateBookingData(range: string) {
     revenue: Math.floor(Math.random() * 200000) + 100000
   }))
 }
+
+npm install
+npm run dev
+npm run deploy
